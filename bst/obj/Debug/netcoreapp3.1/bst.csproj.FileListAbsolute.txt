@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\bst\bst\bin\Debug\netcoreapp3.1\bst.exe
+C:\Users\monisha.khapali\source\repos\bst\bst\bin\Debug\netcoreapp3.1\bst.deps.json
+C:\Users\monisha.khapali\source\repos\bst\bst\bin\Debug\netcoreapp3.1\bst.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\bst\bst\bin\Debug\netcoreapp3.1\bst.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\bst\bst\bin\Debug\netcoreapp3.1\bst.dll
+C:\Users\monisha.khapali\source\repos\bst\bst\bin\Debug\netcoreapp3.1\bst.pdb
+C:\Users\monisha.khapali\source\repos\bst\bst\obj\Debug\netcoreapp3.1\bst.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\bst\bst\obj\Debug\netcoreapp3.1\bst.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\bst\bst\obj\Debug\netcoreapp3.1\bst.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\bst\bst\obj\Debug\netcoreapp3.1\bst.dll
+C:\Users\monisha.khapali\source\repos\bst\bst\obj\Debug\netcoreapp3.1\bst.pdb
+C:\Users\monisha.khapali\source\repos\bst\bst\obj\Debug\netcoreapp3.1\bst.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\bst\bst\obj\Debug\netcoreapp3.1\bst.genruntimeconfig.cache
